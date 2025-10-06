@@ -372,4 +372,4 @@ msedge.exe --disable-extensions-except=C:\path\to\extension --load-extension=C:\
 
 ---
 
-**Внимание**: Это расширение не связано с YouTube или Google. Используйте на свой страх и риск.
+**Внимание**: Это расширение не связано с YouTube или Google. Используйте на свой страх и риск. 
